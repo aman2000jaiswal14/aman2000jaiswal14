@@ -40,7 +40,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 
 ## SocialLinks
 <a href="https://github.com/aman2000jaiswal14"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/aman_jaiswal_2000/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
-  href="https://www.linkedin.com/in/aman-jaiswal-0513841a5/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=1608163200&v=beta&t=NznrR1yta_mlSU_efsQknMn8j-DT5BvF6aSKW4-D-dw" width="30" height="30"></a><a href="https://www.kaggle.com/aman2000jaiswal"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" padding="35" width="30" height="30" >
+  href="https://www.linkedin.com/in/aman-jaiswal-0513841a5/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="30" height="30"></a><a href="https://www.kaggle.com/aman2000jaiswal"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" padding="35" width="30" height="30" >
  
 
 <!--
