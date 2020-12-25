@@ -32,7 +32,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 - **Agriculture Crop Classification and damage detection (Image Classification, Deep learning)**  
   - This project is based on image classification of 5 classes Wheat, Rice, Maize, Sugarcane, Jute. This project used 
 transfer learning concept of deep learning to train on small dataset of 50 images of each class, further image augmention is used to increase images about 200 images of each class. Images had been trained on VGG16 pretrained model giving accuracy above 90%.
-- https://github.com/aman2000jaiswal14/Ann-Aztecs
+  - https://github.com/aman2000jaiswal14/Ann-Aztecs
 
 - **Machine Learning Web App with Streamlit and Python (Machine Learning, Classification)**
   - This is a mushroom classification webapp using machine learning algorithm. In this webapp user can choose his own algorithm and parameters used in those algorithm and train and test it. Also user get different metrics (Confusion matrix, Roc score, accuracy) to test their model.
