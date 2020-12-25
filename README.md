@@ -57,8 +57,11 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 - Human-Activity-Recognition-Using-Smartphones https://github.com/aman2000jaiswal14/Human-Activity-Recognition-Using-Smartphones
 - Individual household electric power consumption https://github.com/aman2000jaiswal14/ExData_Plotting1
 
+<!--
+<img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman2000jaiswal14&layout=compact&hide=html&theme=radical" alt="aman2000jaiswal14" />
+-->
 [![Aman_Jaiswal github stats](https://github-readme-stats.vercel.app/api?username=aman2000jaiswal14)](https://github.com/aman2000jaiswal14/github-readme-stats)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman2000jaiswal14" alt="aman2000jaiswal14" /> </p>
 
 
 ## SocialLinks
