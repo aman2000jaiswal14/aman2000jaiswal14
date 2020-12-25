@@ -51,7 +51,11 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 
 
 
-
+## EDA
+- EDA on Tweets https://github.com/aman2000jaiswal14/EDA_ON_TWEETS
+- EDA on Diabetes Data https://github.com/aman2000jaiswal14/EDA_ON_DIABETES_DATA
+- Human-Activity-Recognition-Using-Smartphones https://github.com/aman2000jaiswal14/Human-Activity-Recognition-Using-Smartphones
+- Individual household electric power consumption https://github.com/aman2000jaiswal14/ExData_Plotting1
 
 [![Aman_Jaiswal github stats](https://github-readme-stats.vercel.app/api?username=aman2000jaiswal14)](https://github.com/aman2000jaiswal14/github-readme-stats)
 
