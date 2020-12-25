@@ -23,16 +23,21 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 # Projects
 - **Face Recognition System (Computer Vision, Deep Learning)**  
   - This project is used to recognize the human faces and label their name over the image. First images will be captured by the cam and then sent to dilib tracker for landmark detection of faces, where we get only face images. These images are trained to the model. And thus on live camera the faces with name label were detected.
+  - https://github.com/aman2000jaiswal14/Face-Recognition-System
 
 - **Simple Chatbot (Using Rasa)**
   - This Project related to a simple conversational chatbot. Rasa Framework is used to build this chatbot and deployed over Telegram.
+  - https://github.com/aman2000jaiswal14/ChatBot
 
 - **Agriculture Crop Classification and damage detection (Image Classification, Deep learning)**  
   - This project is based on image classification of 5 classes Wheat, Rice, Maize, Sugarcane, Jute. This project used 
 transfer learning concept of deep learning to train on small dataset of 50 images of each class, further image augmention is used to increase images about 200 images of each class. Images had been trained on VGG16 pretrained model giving accuracy above 90%.
+- https://github.com/aman2000jaiswal14/Ann-Aztecs
 
 - **Machine Learning Web App with Streamlit and Python (Machine Learning, Classification)**
   - This is a mushroom classification webapp using machine learning algorithm. In this webapp user can choose his own algorithm and parameters used in those algorithm and train and test it. Also user get different metrics (Confusion matrix, Roc score, accuracy) to test their model.
+  - https://mushroom-classifier-ml-project.herokuapp.com/
+  - https://github.com/aman2000jaiswal14/Machine-Learning-Web-App-with-Streamlit-and-Python
 
 - **Review Scrapper (Python)**
   - This is a python project to scrap reviews of the product from the Filpkart website and show it on a web page. Flask framework is used to integrate with frontend.
@@ -42,6 +47,7 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 
 - **PYTHON-ESESAP**
   - This is a small tkinter GUI based application. This app is used to separate the mixed up text, audio, video, image file on a specific location to a separate folder based on their extensions. 
+  - https://github.com/aman2000jaiswal14/PYTHON-ESESAP
 
 
 
