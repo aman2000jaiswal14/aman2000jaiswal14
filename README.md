@@ -36,8 +36,8 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 
 - **Review Scrapper (Python)**
   - This is a python project to scrap reviews of the product from the Filpkart website and show it on a web page. Flask framework is used to integrate with frontend.
-  https://get-prod-reviews.herokuapp.com/
-  https://github.com/aman2000jaiswal14/Review_Scrapper
+   - https://get-prod-reviews.herokuapp.com/
+   - https://github.com/aman2000jaiswal14/Review_Scrapper
   
 
 - **PYTHON-ESESAP**
