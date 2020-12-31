@@ -54,6 +54,7 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 ## EDA
 - EDA on Tweets https://github.com/aman2000jaiswal14/EDA_ON_TWEETS
 - EDA on Diabetes Data https://github.com/aman2000jaiswal14/EDA_ON_DIABETES_DATA
+- Analysis of crop production https://github.com/aman2000jaiswal14/Analysis_of_crop_production
 - Human-Activity-Recognition-Using-Smartphones https://github.com/aman2000jaiswal14/Human-Activity-Recognition-Using-Smartphones
 - Individual household electric power consumption https://github.com/aman2000jaiswal14/ExData_Plotting1
 
