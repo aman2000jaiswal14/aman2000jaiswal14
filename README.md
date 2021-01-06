@@ -43,7 +43,11 @@ transfer learning concept of deep learning to train on small dataset of 50 image
   - This is a python project to scrap reviews of the product from the Filpkart website and show it on a web page. Flask framework is used to integrate with frontend.
    - https://get-prod-reviews.herokuapp.com/
    - https://github.com/aman2000jaiswal14/Review_Scrapper
-  
+
+- **Admission Prediction(Machine Learning,Linear Regression)**
+  - In this project, the chance of getting admission in a collage based on GRE Score, TOEFL Score, University Rating, SOP, LOR, CGPA, research is predicted. Linear Regression        model is used for the prediction of chance.
+  - https://admission--prediction.herokuapp.com/
+  - https://github.com/aman2000jaiswal14/Admission_prediction
 
 - **PYTHON-ESESAP**
   - This is a small tkinter GUI based application. This app is used to separate the mixed up text, audio, video, image file on a specific location to a separate folder based on their extensions. 
