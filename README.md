@@ -22,7 +22,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 
 # Projects
 - **Face Recognition System (Computer Vision, Deep Learning)**  
-  - This project is used to recognize the human faces and label their name over the image. First images will be captured by the cam and then sent to mxnet model for landmark detection of faces, where we get only face images. These images are trained to the model. And thus on live camera the faces with name label were detected.
+  - This project is used to recognize the human faces and label their name over the image. First images will be captured by the cam and then sent to mtcnn model for landmark detection of faces, where we get only face images. These images are trained to the model. And thus on live camera the faces with name label were detected.
   - https://github.com/aman2000jaiswal14/Face-Recognition-System
 
 - **Simple Chatbot (Using Rasa)**
