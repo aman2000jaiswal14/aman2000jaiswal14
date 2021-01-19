@@ -62,6 +62,8 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 - Human-Activity-Recognition-Using-Smartphones https://github.com/aman2000jaiswal14/Human-Activity-Recognition-Using-Smartphones
 - Individual household electric power consumption https://github.com/aman2000jaiswal14/ExData_Plotting1
 
+## Blog
+ - [Data manipulation with Dask Dataframe](https://inblog.in/Data-manipulation-with-Dask-dataframe-kt6Z5irDVg)
 <!--
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman2000jaiswal14&layout=compact&hide=html&theme=radical" alt="aman2000jaiswal14" />
 -->
