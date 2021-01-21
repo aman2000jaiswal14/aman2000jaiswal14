@@ -26,7 +26,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
   - https://github.com/aman2000jaiswal14/Face-Recognition-System
 
 - **Simple Chatbot (Using Rasa)**
-  - This Project related to a simple conversational chatbot. Rasa Framework is used to build this chatbot and deployed over Telegram.
+  - This Project related to a simple conversational chatbot. Rasa Framework is used to build this chatbot and deployed over Telegram. This Chatbot is related to Portfolio assistant which will provide Email, Contact no, Github link, Linkedin link and tell about his client whether he is available for work, what are his skills.
   - https://github.com/aman2000jaiswal14/ChatBot
 
 - **Agriculture Crop Classification and damage detection (Image Classification, Deep learning)**  
