@@ -17,7 +17,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 
 - I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
 - I am currently looking for internships in Data Science, Machine learning or Software development.
-
+- Visit to [My Portfolio](https://my-portfolio-amanjaiswal.herokuapp.com/)
 
 
 # Projects
@@ -28,6 +28,11 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 - **Simple Chatbot (Using Rasa)**
   - This Project related to a simple conversational chatbot. Rasa Framework is used to build this chatbot and deployed over Telegram. This Chatbot is related to Portfolio assistant which will provide Email, Contact no, Github link, Linkedin link and tell about his client whether he is available for work, what are his skills.
   - https://github.com/aman2000jaiswal14/ChatBot
+  
+- **Dynamic Portfolio**
+  - This is a Dynamic Backend Portfolio Project which can be handled by the user from a seperate User Interface. If you want to a try for this project go for try now. First user have to signin to create a portfolio. After signin user directed to the login page. where user login with their credentials. After login user redirect to the Admin page where user can replace his name, about himself, add skill, remove skill, add project and remove project. User can also see the messages and feedback send by the visitors who visited his portfolio and give feedback (or message) to the user. User can also delete those messages.
+  - https://my-dynamic-portfolio.herokuapp.com/
+  - https://github.com/aman2000jaiswal14/Dynamic-Portfolio
 
 - **Agriculture Crop Classification and damage detection (Image Classification, Deep learning)**  
   - This project is based on image classification of 5 classes Wheat, Rice, Maize, Sugarcane, Jute. This project used 
