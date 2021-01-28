@@ -30,7 +30,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
   - https://github.com/aman2000jaiswal14/ChatBot
   
 - **Dynamic Portfolio**
-  - This is a Dynamic Backend Portfolio Project which can be handled by the user from a separate User Interface. First user have to signin to create a portfolio. After signin user directed to the login page. where user login with their credentials. After login user redirect to the Admin page where user can replace his name, about himself, add skill, remove skill, add project and remove project. User can also see the messages and feedback send by the visitors who visited his portfolio and give feedback (or message) to the user. User can also delete those messages.
+  - This is a Dynamic Backend Portfolio Project which can be handled by the user from a separate User Interface. First user have to signin to create a portfolio. After signup user directed to the login page. where user login with their credentials. After login user redirect to the Admin page where user can replace his name, about himself, add skill, remove skill, add project and remove project. User can also see the messages and feedback send by the visitors who visited his portfolio and give feedback (or message) to the user. User can also delete those messages.
   - https://my-dynamic-portfolio.herokuapp.com/
   - https://github.com/aman2000jaiswal14/Dynamic-Portfolio
 
