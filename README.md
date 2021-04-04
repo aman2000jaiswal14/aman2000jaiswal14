@@ -11,7 +11,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
  -  Data Structure and Algorithm
  -  Problem Solving
  -  Python
- -  R
+ -  Django
  -  Cpp
  -  SQL
 
