@@ -44,7 +44,7 @@ transfer learning concept of deep learning to train on small dataset of 50 image
   - https://mushroom-classifier-ml-project.herokuapp.com/
   - https://github.com/aman2000jaiswal14/Machine-Learning-Web-App-with-Streamlit-and-Python
 
-- **Review Scrapper (Python)**
+- **Review Scraper (Python)**
   - This is a python project to scrap reviews of the product from the Filpkart website and show it on a web page. Flask framework is used to integrate with frontend.
    - https://get-prod-reviews.herokuapp.com/
    - https://github.com/aman2000jaiswal14/Review_Scrapper
