@@ -16,7 +16,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
  -  SQL
 
 - I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
-- I am currently looking for internships in Data Science, Machine learning or Software development.
+- I am currently looking for jobs/internships in Data Science, Machine learning or Software development.
 - Visit to [My Portfolio](https://my-portfolio-amanjaiswal.herokuapp.com/)
 
 
