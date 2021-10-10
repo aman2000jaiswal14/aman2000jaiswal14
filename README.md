@@ -20,7 +20,7 @@ I am a core member in Google Developer Student Club in MMMUT. I am Codeforces Sp
  -  Operating System
 
 - I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
-- I am currently looking for jobs/internships in Data Science, Machine learning or Software development.
+- I am currently looking for jobs/internships in Software development or Machine learning Fields.
 - Visit to [My Portfolio](https://my-portfolio-amanjaiswal.herokuapp.com/)
 
 # Certificate
