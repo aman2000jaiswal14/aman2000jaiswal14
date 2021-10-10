@@ -27,6 +27,16 @@ I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* a
 - Machine Learning Masters @iNeuron. [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/MachineLearningMasters_Certi_Ineuron.pdf)
 - Smart India Hackathon Finalist 2020. [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/sih2020_certi.pdf)
 
+# Coding Profiles
+- Codeforces [@aman2000jaiswal14](https://codeforces.com/profile/aman2000jaiswal14)
+- GeeksForGeeks [@aman2000jaiswal14](https://auth.geeksforgeeks.org/user/aman2000jaiswal14/practice/)
+- LeetCode [@aman2000jaiswal14](https://leetcode.com/aman2000jaiswal14/)
+- HackerRank[@aman2000jaiswal1](https://www.hackerrank.com/aman2000jaiswal1)
+- CodeChef [@aman14jaiswal](https://www.codechef.com/users/aman14jaiswal)
+- StopTalk [@aman2000jaiswal14](https://www.stopstalk.com/user/profile/aman2000jaiswal14)
+
+
+
 # Projects
 - **Face Recognition System (Computer Vision, Deep Learning)**  
   - This project is used to recognize the human faces and label their name over the image. First images will be captured by the cam and then sent to mtcnn model for bounding box regression of faces, where we get only face images. These images are trained to the model. And thus on live camera the faces with name label were detected.
