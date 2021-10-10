@@ -1,6 +1,7 @@
 ### About 👋 Aman Jaiswal
-I am currently a computer science and engineering student in B-Tech 3rd year in Madan Mohan Malaviya University of Technology, Gorakhpur.
-I am a core member in Google Developer Student Club in MMMUT. I am Codeforces Specialist, CodeChef 4 star and Kaggle Expert.
+I am currently a computer science and engineering student in B-Tech Final year in Madan Mohan Malaviya University of Technology, Gorakhpur. Highly interested in Problem Solving, DSA and Competitive Programming. I am CodeForces Specialist and Kaggle Expert and solved over 600 problems in DSA on platform Codeforces, GFG, Leetcode, HackerRank, Codeforces.
+I am currently looking for jobs/internships in Software development or Machine learning Fields.
+
 
 # Experience
 - Intern @Artyvis : [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/Artyvis_internship_certification_Aman%20Jaiswal.pdf)
@@ -19,8 +20,6 @@ I am a core member in Google Developer Student Club in MMMUT. I am Codeforces Sp
  -  DBMS
  -  Operating System
 
-- I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
-- I am currently looking for jobs/internships in Software development or Machine learning Fields.
 - Visit to [My Portfolio](https://my-portfolio-amanjaiswal.herokuapp.com/)
 
 # Certificate
