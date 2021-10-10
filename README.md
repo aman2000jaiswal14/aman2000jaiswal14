@@ -3,24 +3,29 @@ I am currently a computer science and engineering student in B-Tech 3rd year in 
 I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* and Kaggle Expert.
 
 # Experience
-Intern @Artyvis : [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/Artyvis_internship_certification_Aman%20Jaiswal.pdf)
- 
+- Intern @Artyvis : [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/Artyvis_internship_certification_Aman%20Jaiswal.pdf)
  
  # My Skills
+ -  Python
+ -  C++
+ -  Algorithms and Data Structures
+ -  Problem Solving
+ -  Web Scraping
  -  Machine Learning
  -  Computer Vision
  -  Deep Learning
- -  Data Structure and Algorithm
- -  Problem Solving
- -  Python
  -  Django
- -  Cpp
  -  SQL
+ -  DBMS
+ -  Operating System
 
 - I am currently learning advance Machine learning and deep learning algorithms along with competitive programming. 
 - I am currently looking for jobs/internships in Data Science, Machine learning or Software development.
 - Visit to [My Portfolio](https://my-portfolio-amanjaiswal.herokuapp.com/)
 
+# Certificate
+- Machine Learning Masters @iNeuron. [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/MachineLearningMasters_Certi_Ineuron.pdf)
+- Smart India Hackathon Finalist 2020. [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/sih2020_certi.pdf)
 
 # Projects
 - **Face Recognition System (Computer Vision, Deep Learning)**  
