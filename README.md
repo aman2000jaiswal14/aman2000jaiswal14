@@ -38,6 +38,11 @@ I am a core member in Google Developer Student Club in MMMUT. I am Codeforces Sp
 
 
 # Projects
+
+- **Clothing API (Django Rest Framework, ElasticSearch, MongoDB)**  
+  - Its an API built in Django Rest Framework. It gives the information about the different clothes available in the Elastic Search Database. It is based on REST Architecture with a single end point. Feature of the API are it provides full text search query, filters according to the categories of product along with different feature like color, style, Fabric Details, size etc. API gives the result in a paginatied fashion so that it can be easily used in any E-commerce Fashion sites as an inventory.
+  - https://github.com/aman2000jaiswal14/Clothing-Api
+
 - **Face Recognition System (Computer Vision, Deep Learning)**  
   - This project is used to recognize the human faces and label their name over the image. First images will be captured by the cam and then sent to mtcnn model for bounding box regression of faces, where we get only face images. These images are trained to the model. And thus on live camera the faces with name label were detected.
   - https://github.com/aman2000jaiswal14/Face-Recognition-System
