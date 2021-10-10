@@ -1,6 +1,7 @@
 ### About 👋 Aman Jaiswal
 I am currently a computer science and engineering student in B-Tech 3rd year in Madan Mohan Malaviya University of Technology, Gorakhpur.
 I am a core member in Google Developer Student Club in MMMUT. I am codechef 4* and Kaggle Expert.
+Intern @Artyvis : [Certificate](https://github.com/aman2000jaiswal14/Certificates/blob/master/Artyvis_internship_certification_Aman%20Jaiswal.pdf)
  
  
  # My Skills
