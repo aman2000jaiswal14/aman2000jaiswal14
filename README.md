@@ -35,7 +35,7 @@ I am currently looking for jobs/internships in Software development or Machine l
 - LeetCode [@aman2000jaiswal14](https://leetcode.com/aman2000jaiswal14/)
 - HackerRank[@aman2000jaiswal1](https://www.hackerrank.com/aman2000jaiswal1)
 - CodeChef [@aman14jaiswal](https://www.codechef.com/users/aman14jaiswal)
-- StopTalk [@aman2000jaiswal14](https://www.stopstalk.com/user/profile/aman2000jaiswal14)
+- StopStalk [@aman2000jaiswal14](https://www.stopstalk.com/user/profile/aman2000jaiswal14)
 
 
 
