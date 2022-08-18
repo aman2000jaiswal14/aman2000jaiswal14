@@ -101,7 +101,7 @@ transfer learning concept of deep learning to train on small dataset of 50 image
 
 
 ## SocialLinks
-<a href="https://github.com/aman2000jaiswal14"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/aman_jaiswal_2000/"> <img src="https://image.flaticon.com/icons/svg/733/733614.svg" width="30" height="30"> <a   
+<a href="https://github.com/aman2000jaiswal14"><img src="https://github.com/favicon.ico" padding="35" width="30" height="30" ></a>    <a                href="https://www.instagram.com/__aman.jaiswal/"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"> <a   
   href="https://www.linkedin.com/in/aman-jaiswal-0513841a5/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30"></a><a href="https://www.kaggle.com/aman2000jaiswal"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" padding="35" width="30" height="30" >
  
 
