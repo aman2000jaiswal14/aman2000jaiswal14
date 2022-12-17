@@ -1,5 +1,6 @@
 ### About 👋 Aman Jaiswal
-I am currently a computer science and engineering student in B-Tech Final year in Madan Mohan Malaviya University of Technology, Gorakhpur. Highly interested in Problem Solving, DSA and Competitive Programming. I am CodeForces Specialist and Kaggle Expert and solved over 600 problems in DSA on platform Codeforces, GFG, Leetcode, HackerRank, Codeforces.
+Bel Research Scientist
+
 My Hobbies are Exploring and Learning innovative things. 
 I am currently looking for jobs/internships in Software development or Machine learning Fields.
 - Mail:- aman2000jaiswal14@gmail.com
